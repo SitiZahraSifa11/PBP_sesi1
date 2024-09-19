@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+The content of the body element is displayed in your browser.
+<button onclick ="helloWorld()">klik untuk ke hello word</button>
+<script>
+	function helloWorld(){
+        alert ('Hello World')
+        alert('Nama Saya Siti Zahra Sifa')
+	}
+</script>
+</body>
+
+</html>
