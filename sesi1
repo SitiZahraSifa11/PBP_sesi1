@@ -3,12 +3,12 @@
 
 <body>
 The content of the body element is displayed in your browser.
-<button onclick ="helloWorld()">klik untuk ke hello word</button>
+<button onclick="helloWorld()">Klik untuk ke hello world</button>
 <script>
 	function helloWorld(){
-        alert ('Hello World')
-        alert('Nama Saya Siti Zahra Sifa')
-	}
+    	alert('Hello World')
+        alert('Nama saya siti zahra sifa')
+    	}
 </script>
 </body>
 
